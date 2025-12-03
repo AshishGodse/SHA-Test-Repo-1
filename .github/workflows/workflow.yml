@@ -10,6 +10,6 @@ on:
 
 jobs:
   call-reusable-workflow:
-    uses: AshishGodse/SHA-Test-Repo-Common/.github/workflows/workflow-X.yml@0890f0bd83ca5d4bbb365eecdfd47b4433e49d63
+    uses: AshishGodse/SHA-Test-Repo-Common/.github/workflows/workflow-X.yml@cf1eb2a8a132e28742e1ca82c84e441a047ba835
     with:
       environment: production
